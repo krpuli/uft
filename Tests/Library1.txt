@@ -1,2 +1,1 @@
-﻿msgbox "hi"
-msgbox "hi"
+﻿systemutil.Run "msedge.exe"
