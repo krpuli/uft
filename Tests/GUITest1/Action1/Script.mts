@@ -1,1 +1,1 @@
-﻿
+﻿systemutil.Run "msedge.exe"
